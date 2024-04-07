@@ -1,0 +1,17 @@
+# compiler files
+cache
+out
+artifacts
+
+
+# tests
+coverage
+
+# .env
+.env
+
+# vscode
+.vscode
+
+# dependencies
+node_modules
